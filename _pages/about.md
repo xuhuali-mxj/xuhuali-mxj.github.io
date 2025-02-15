@@ -9,6 +9,8 @@ redirect_from:
 
 I am a final-year PhD candidate at [Machine Vision and Signal Analysis (CMVS)](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) in University of Oulu, Finland, supervised by [Prof. Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en). I have completed visiting research experiences at Nanyang Technology University, Singapore (Aug. 2024 - Dec. 2024), supervised by [Prof. Hanwang Zhang](https://scholar.google.com.sg/citations?user=YG0DFyYAAAAJ&hl=en), and at Nankai University, Tianjin, China (Oct 2023), supervised by [Prof. Ming-Ming Cheng](https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en). Before my PhD, I obtained my MSc.Eng degree from Inner Mongolia University in 2021 and received B.Eng degree from Shanghai Polytechnic University in 2016. My research interests include: Machine learning, Deep Learning, Computer vision, Cross-domain Learning, Few-shot Learning, Math.
 
+You can find my CV here: [Huali Xu]()
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
