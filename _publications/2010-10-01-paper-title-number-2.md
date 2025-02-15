@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "Deep learning for cross-domain few-shot visual recognition: A survey"
+collection: ACM Computing Surveys
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is a survey of cross-domain few-shot learning topic.'
+date: 2025-02-15
+venue: 'ACM Computing Surveys'
+paperurl: 'https://arxiv.org/pdf/2303.08557'
+citation: 'Xu, Huali, et al. "Deep learning for cross-domain few-shot visual recognition: A survey." arXiv preprint arXiv:2303.08557 (2023).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents the first comprehensive review of Cross-domain Few-shot Learning (CDFSL), a field that has received less attention compared to traditional FSL due to its unique challenges. We aim to provide both a position paper and a tutorial for researchers, covering key problems, existing methods, and future research directions. The review begins with a formal definition of CDFSL, outlining its core challenges, followed by a systematic analysis of current approaches, organized under a clear taxonomy. Finally, we discuss promising future directions in terms of problem setups, applications, and theoretical advancements.
