@@ -10,11 +10,4 @@ paperurl: 'https://arxiv.org/pdf/2411.10070'
 citation: 'Xu, Huali, et al. "Step-wise Distribution Alignment Guided Style Prompt Tuning for Source-free Cross-domain Few-shot Learning." arXiv preprint arXiv:2411.10070 (2024).'
 ---
 
-
-
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-
 This paper proposes a novel approach named Step-wise Distribution Alignment Guided Style Prompt Tuning (StepSPT) to implicitly narrow the domain gaps from the perspective of prediction distribution optimization.
