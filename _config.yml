@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/xuhuali-mxj/xuhuali-mxj.github.io/tree/master/images/cv_photo.jpg"
+  avatar           : "images/cv_photo.jpg"
   name             : "Huali Xu"
   pronouns         : # example: "she/her"  
   bio              : "Research Interests: Deep learning; Computer vision; Cross-domain few-shot learning"
@@ -47,7 +47,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
