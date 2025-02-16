@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Deep learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Oulu, Faculty of Information Technology and Electronical Engineering"
+date: 2023-11-01
+location: "Oulu, Finland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The introductory course on deep learning presents the basic concepts, theory, algorithms and models, and provides hands-on experience on implementing, training and utilizing deep neural networks. 
 
 Heading 1
 ======
