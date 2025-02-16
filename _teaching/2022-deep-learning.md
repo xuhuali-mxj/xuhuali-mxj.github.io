@@ -8,12 +8,3 @@ location: "Oulu, Finland"
 ---
 
 The introductory course on deep learning presents the basic concepts, theory, algorithms and models, and provides hands-on experience on implementing, training and utilizing deep neural networks. 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
